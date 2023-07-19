@@ -21,7 +21,8 @@ Welcome to the Bioinformatics Training Program! This repository serves as your c
 
 
 ## About Us
-![image](https://github.com/AMR-Bioinformatics/Onboarding/assets/87149425/af12ed29-66b7-4d90-9d9b-56ea105155ab)
+![image](https://github.com/AMR-Bioinformatics/Onboarding/assets/87149425/8714f9e3-2090-48be-8efb-f7fadbe77c92)
+
 
 
 
