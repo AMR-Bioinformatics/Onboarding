@@ -27,24 +27,37 @@ Welcome to the Bioinformatics Training Program! This repository serves as your c
 
 
 ## Training Curriculum
-
+The trainig curriculum for the AMR genomics can be accessed [CURRICULUM](https://github.com/AMR-Bioinformatics/Bioinformatics-Training/blob/main/Curriculum.md)
 
 
 ## Getting Started
-
-
+Our training resources can be found through the following link [BioinfoTraining](https://github.com/AMR-Bioinformatics/Bioinformatics-Training)
 
 ## Folder Structure
 
 
 
 ## Communication
-
+The communication through out this training will be done through the [AMR Genomics](https://amr-genomics.slack.com/) on Slack 
 
 
 ## Tools and Software
+**Tools**
+1. Bash
+2. Python
+3. R.
+4. Workflow languages -Nextflow,Galaxy
+5. Version Control tools- git and GitHub
+6. Dependency issue tools:
+   Package managers (conda & bioconda) and Containers(Docker and Singularity)
 
 
+   **Standard machine specs**
+   1. 8GB RAM
+   2. Core i7
+   3. 256 SSD
+   4. At least 4CPU's
+  
 
 ## Policies and Guidelines
 
@@ -68,6 +81,6 @@ Welcome to the Bioinformatics Training Program! This repository serves as your c
 
 ## License
 
-
+[MIT LICENSE](https://github.com/AMR-Bioinformatics/Bioinformatics-Training/blob/main/LICENSE)
 
 
